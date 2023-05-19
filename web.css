@@ -1,0 +1,10 @@
+*{
+    color:black;
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    outline: none;
+}
+.div1{
+    background-image: url("./Images/newsletter.png");
+}
