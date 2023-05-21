@@ -5,6 +5,7 @@
     text-decoration: none;
     outline: none;
 }
+<<<<<<< HEAD
 
 *,*:after,*:before{
     -webkit-box-sizing: border-box;
@@ -240,4 +241,8 @@ text-align: center;
 }
 .contenta div{
     margin-bottom: 2%;
+=======
+.div1{
+    background-image: url("./Images/newsletter.png");
+>>>>>>> origin/master
 }
